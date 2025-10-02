@@ -1,0 +1,39 @@
+body{font-family: Arial,sans-serif;
+     background-color: rgba(181, 204, 255, 0.541);
+     margin: 0%;
+     padding: 0%;}
+
+
+header{background-color: rgb(216, 216, 224);
+       color: white;
+       padding: 20px;
+       text-align: center;} 
+
+
+
+
+.Programação{background-color: rgb(24, 130, 172);
+            border-radius: 8px;
+            padding: 10px;
+            box-shadow: 0 0 10px rgba(rgb(83, 158, 76), green, rgb(118, 118, 245), alpha);}
+
+
+.Programa{display: flex;
+         justify-content: space-between;
+         padding: 10px;
+         border-bottom: 1px solid #bad8ff;}
+       
+ .Programa :last-child{border-bottom: none;}  
+ 
+ .Hora{font-weight: bolder;
+      color: white;}
+
+.Título{color: white;}
+
+footer{background-color: rgb(183, 202, 255);
+      color: white(0, 4, 255);
+      text-align: center;
+      padding: 10px;
+      position: relative;
+      bottom: 0;
+      width: 100%;}
