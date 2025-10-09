@@ -12,7 +12,7 @@ header{background-color: rgb(216, 216, 224);
 
 
 
-.Programação{background-color: rgb(24, 130, 172);
+.Programação{background-color: rgb(0, 0, 0);
             border-radius: 8px;
             padding: 10px;
             box-shadow: 0 0 10px rgba(rgb(83, 158, 76), green, rgb(118, 118, 245), alpha);}
@@ -37,3 +37,7 @@ footer{background-color: rgb(183, 202, 255);
       position: relative;
       bottom: 0;
       width: 100%;}
+
+
+
+.imagem{width: 10%;}
